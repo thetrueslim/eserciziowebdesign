@@ -1,0 +1,77 @@
+.inizio{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align:center;
+    margin:0 auto;
+    position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    
+    .fotoinizio{
+      width:100%;
+      opacity: 0.3;
+    }
+    
+    .islandaimage{
+      margin-left: 65%;
+    
+    }
+    .descr1{
+      font-family: Arial, Helvetica, sans-serif ;
+      font-size: 32;
+      text-align: left;
+      width:50%;
+      display: block;
+      position: relative;
+      top:-500px;
+      right: -650px;
+    
+    }
+    .descr2{
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 32;
+      text-align: left;
+      position: relative;
+      display: block;
+      width:50%;
+      top:-500px;
+      right: -50px;
+    }
+    
+    .descr3{
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 32;
+      text-align: left;
+      width:50%;
+      display: block;
+      position: relative;
+      top:-500px;
+      right: -650px;
+    
+    }
+    .fine{
+      opacity: 0.3;
+      width: 100%;
+      margin-top:50px;
+    }
+    .fine2{
+      font-size:40;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+      text-align:center;
+      margin:0 auto;
+      position: relative;
+      top:-500px;
+    }
+    
+    .hr{
+      border:2px solid black;
+    }
+
+.ig{
+  display: block;
+  margin: auto;
+}
